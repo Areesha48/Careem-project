@@ -1,0 +1,13 @@
+.slider-container {
+    position: relative;
+    margin: 20px auto;
+  }
+  
+  .slider-item img {
+    border-radius: 10px;
+  }
+  
+  .slick-dots li button:before {
+    color: #009688; /* Custom dot color */
+  }
+  
