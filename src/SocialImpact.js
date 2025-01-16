@@ -24,7 +24,7 @@ const SocialImpact = () => {
         {/* Image Section */}
         <CardMedia
           component="img"
-          image="/SocialImpact.avif" // Ensure the path to the image is correct
+          image="/socialimpact.avif" // Ensure the path to the image is correct
           alt="Captain"
           sx={{
             width: { xs: '90%', sm: '80%', md: '30%' }, // Make image larger on mobile devices
